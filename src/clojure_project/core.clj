@@ -19,5 +19,4 @@
 (defn -main [& args]
 
   (string-validation ["ABCd" "1234" "@#$%" "poi9" "DFEW" "123456789" "ABCDEFGHIJKL" "        "  "/.,mn" "WXYZ" 1234 2M])
-
-  )
+)
