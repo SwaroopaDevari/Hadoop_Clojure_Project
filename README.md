@@ -1,22 +1,15 @@
 # clojure-project
 
-A Clojure library designed to ... well, that part is up to you.
+UseCase:
+This is Clojure example code based on regex(regular expressions) on strings.
 
-## Usage
+Why the project is useful:
+It is useful for data validations on real time data(OLAP).
 
-FIXME
+Functions applied:
+Function with variable name has been defined.
+Applied regex pattern using re-matches,re-find,filtered the string. 
+Using let bindings created a variable and applied filter and map on string.
+if statement is used with empty function.
 
-## License
 
-Copyright © 2019 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
